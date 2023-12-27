@@ -37,6 +37,6 @@ I'm Fikireab Mekuriaw a Full-stack Developer.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fikireab-m&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikireab-m&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikireab-m&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikireab-m&theme=dark&hide_border=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikireab-m&theme=dark&hide_border=true&show_icons=true) -->
