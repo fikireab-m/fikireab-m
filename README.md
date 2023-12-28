@@ -16,7 +16,7 @@ I'm Fikireab Mekuriaw a Full-stack Developer.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <a href="https://www.python.org/" target="blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+  <a href="https://www.python.org/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
     border-radius: 4px;"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
