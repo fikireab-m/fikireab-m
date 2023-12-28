@@ -18,28 +18,92 @@ I'm Fikireab Mekuriaw a Full-stack Developer.
 <div>
   <a href="https://www.python.org/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
     border-radius: 4px;"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </a>
-  <a href="" target="blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
-    border-radius: 4px;"> 
-  </a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" **alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" **alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next js" alt="Next js " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  </a>&nbsp;
+
+<a href="https://flutter.dev/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" \*\*alt="Flutter" width="40" height="40"/>&nbsp;
+</a>&nbsp;
+
+<a href="https://flutter.dev/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" \*\*alt="Dart" width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://dart.dev/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" \*\*alt="Dart" width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://www.android.com/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" \*\*alt="Android" width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript"  alt="Typescript" width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://react.dev/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>  
+ </a>&nbsp;
+
+<a href="https://mui.com/material-ui/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://redux.js.org/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://nextjs.org/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next js" alt="Next js " width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+
+<a href="https://www.mongodb.com/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>&nbsp;
+
+<a href="https://firebase.google.com/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>&nbsp;
+
+<a href="https://www.mysql.com/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
+
+<a href="https://nodejs.org/en" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
+
+<a href="https://expressjs.com/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/></a>&nbsp;
+
+<a href="https://git-scm.com/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77;
+    border-radius: 4px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="40" height="40"/>
+</a>&nbsp;
+
 </div>
 
 ---
