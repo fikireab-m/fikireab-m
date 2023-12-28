@@ -16,7 +16,9 @@ I'm Fikireab Mekuriaw a Full-stack Developer.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  [!<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>](https://git-scm.com/)&nbsp;
+  <a href='https://git-scm.com/'> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  </a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" **alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" **alt="Android" width="40" height="40"/>&nbsp;
