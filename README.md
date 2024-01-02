@@ -22,9 +22,6 @@ I'm Fikireab Mekuriaw a Full-stack Developer.
 <a href="https://flutter.dev/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </a>&nbsp;
-<a href="https://dart.dev/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" \*\*alt="Dart" width="40" height="40"/>
-</a>&nbsp;
 <a href="https://www.android.com/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>
 </a>&nbsp;
