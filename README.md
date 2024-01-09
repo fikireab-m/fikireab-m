@@ -22,9 +22,6 @@ I'm Fikireab Mekuriaw a Full-stack Developer.
 <a href="https://flutter.dev/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </a>&nbsp;
-<a href="https://www.android.com/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>
-</a>&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript"  alt="Typescript" width="40" height="40"/>
 </a>&nbsp;
@@ -39,6 +36,9 @@ I'm Fikireab Mekuriaw a Full-stack Developer.
 </a>&nbsp;
 <a href="https://nextjs.org/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next js" alt="Next js " width="40" height="40"/>
+</a>&nbsp;
+<a href="https://www.android.com/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
@@ -66,10 +66,10 @@ I'm Fikireab Mekuriaw a Full-stack Developer.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fikireab-m&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fikireab-m&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fikireab-m)](https://git.io/streak-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikireab-m&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikireab-m&theme=dark&hide_border=true&show_icons=true) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer"/> -->
