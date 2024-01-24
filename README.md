@@ -71,4 +71,4 @@ I'm Fikireab Mekuriaw a Full-stack Developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikireab-m&theme=dark&hide_border=true&show_icons=true) -->
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer"/> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A1D56&height=60&section=footer"/>
