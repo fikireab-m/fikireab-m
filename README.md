@@ -5,9 +5,9 @@
 
 I'm Fikireab Mekuriaw a Full-stack Developer.
 
-- :telescope: I’m currently working as a Software Developer at [MiNT](https://mint.gov.et/?lang=en)
+- :office: I’m currently working as a Software Developer at [MiNT](https://mint.gov.et/?lang=en)
 
-- :zap: In my free time, I solve problems on leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikireab-m-332b09236)
 
@@ -38,7 +38,7 @@ I'm Fikireab Mekuriaw a Full-stack Developer.
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next js" alt="Next js " width="40" height="40"/>
 </a>&nbsp;
 <a href="https://www.android.com/" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration:none; padding-right: 4px; background-color: #f0ffff77; border-radius: 4px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
