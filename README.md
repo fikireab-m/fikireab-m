@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm Fikireab Mekuriaw a Full-stack Developer.
+I'm Fikireab Mekuriaw, a Full-stack Developer.
 
 - :office: I’m currently working as a Software Developer at [MiNT](https://mint.gov.et/?lang=en)
 
