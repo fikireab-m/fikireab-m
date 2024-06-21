@@ -5,7 +5,7 @@
 
 I'm Fikireab Mekuriaw, a Full-stack Developer.
 
-- :office: I’m currently working as a Software Developer at [MiNT](https://mint.gov.et/?lang=en)
+- :office: I’m currently working as a Fullstack Developer at [Addis Software](https://addissoftware.com/)
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
